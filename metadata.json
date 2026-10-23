@@ -1,0 +1,6 @@
+{
+  "name": "Chat AI",
+  "description": "Next-generation multimodal AI workspace featuring real-time reasoning, vision analysis, voice synthesis, live code artifacts, and persona workflows.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
